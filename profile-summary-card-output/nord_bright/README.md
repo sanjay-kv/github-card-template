@@ -35,6 +35,26 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/nord_bright/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```

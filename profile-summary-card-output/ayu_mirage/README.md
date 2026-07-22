@@ -35,6 +35,26 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/ayu_mirage/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
